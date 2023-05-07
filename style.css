@@ -1,0 +1,33 @@
+html{
+    background-color: antiquewhite;
+}
+
+#list{
+    font-size: 2rem;
+    text-align:justify;
+    color: black;
+}
+
+/*a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: ;
+    background-color: transparent;
+    text-decoration: underline;
+  } */
